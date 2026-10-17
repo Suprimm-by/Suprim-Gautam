@@ -1,0 +1,8 @@
+{
+  "name": "Remix PrankFX - Ultimate Sound Bomb \u0026 Stealth Prank Master",
+  "description": "High-fidelity prank sound engine with trigger timers, stealth disguises, motion sensor bombs, 3D spatial audio, and interactive razor \u0026 taser simulators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
